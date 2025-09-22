@@ -1,4 +1,4 @@
-# Provision of the necessary resources
+# Clenaup
 
 ## Introduction
 

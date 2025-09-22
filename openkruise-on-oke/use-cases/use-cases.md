@@ -1,4 +1,4 @@
-# Provision of the necessary resources
+# Explore OpenKruise use cases 
 
 ## Introduction
 
